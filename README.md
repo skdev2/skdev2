@@ -6,7 +6,7 @@ I'm a passionate **Danish developer** specialized in **GTA V (FiveM) development
 
 - 🧠 Skilled in **Lua**, **JavaScript**, **React**, and I work primarily in **Visual Studio Code**
 - 🇩🇰 From Denmark, leading development for **Menco**
-- 🎮 Focused on **FiveM scripting**, building both client- and server-side systems
+- 🎮 Focused on **FiveM scripting**
 - 💡 Constantly learning, optimizing, and building smarter scripts for the community
 
 ## 🛠️ Technologies I Use
