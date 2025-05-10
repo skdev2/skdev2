@@ -5,6 +5,7 @@ I'm a passionate **Danish developer** specialized in **GTA V (FiveM) development
 ## 🚀 About Me
 
 - 🧠 Skilled in **Lua**, **JavaScript**, **React**, and I work primarily in **Visual Studio Code**
+- 🎨 **Graphic Designer at Epic Games**, focused on high-quality visual assets and UI elements
 - 🇩🇰 From Denmark, leading development for **Menco**
 - 🎮 Focused on **FiveM scripting**
 - 💡 Constantly learning, optimizing, and building smarter scripts for the community
@@ -20,4 +21,4 @@ I'm a passionate **Danish developer** specialized in **GTA V (FiveM) development
 
 - Discord: `duee1192`
 - GitHub: [1ZaneDev](https://github.com/1ZaneDev)
-- Website: [Coming soon]
+- Website: [Coming soon] (Never comming)
