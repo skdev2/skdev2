@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Zane!
+https://cdn.discordapp.com/attachments/1209876638268002364/1375948873222066348/ChatGPT_Image_24._maj_2025_23.28.29.png?ex=68338bbf&is=68323a3f&hm=e517cf9c51cbd84d03ef2e530012fe6b9f9492fc27a2e2cb714bf525abeba350&
+
+# 👋 Hi, I'm Chip!
 
 I'm a passionate **Danish developer** specialized in **GTA V (FiveM) development**.
 
