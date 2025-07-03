@@ -20,4 +20,4 @@ I'm a passionate **Danish developer** specialized in **GTA V (FiveM) development
 ## 📫 Connect With Me
 
 - Discord: `_.skdev._`
-- GitHub: [Skdev](https://github.com/skdev2)
+- GitHub: [Skdev](https://github.com/skdev)
