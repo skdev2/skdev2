@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=skdev2)
+![](https://komarev.com/ghpvc/?username=SkTheGoat)
 
 # 👋 Hi, I'm SK!
 
@@ -21,4 +21,4 @@ I'm a passionate **Danish developer** specialized in **GTA V (FiveM) development
 ## 📫 Connect With Me
 
 - Discord: `_.skdev._`
-- GitHub: [Skdev](https://github.com/skdev2)
+- GitHub: [Skdev](https://github.com/SkTheGoat)
